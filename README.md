@@ -1,3 +1,4 @@
+As i gained some experience i will refactor whole task (just for fun to see how much my code improves by time).
 ------SOLUTION FOR RECRUITMENT TASK------
 
 How to execute my code and test my solution: 
